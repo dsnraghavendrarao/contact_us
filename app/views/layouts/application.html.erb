@@ -11,8 +11,8 @@
   </head>
 
   <body>
-    Language:- <%= link_to_unless_current I18n.t('new.language'), locale: "en" %> |
-    <%= link_to_unless_current I18n.t('new.language'), locale: "te" %>
+    Language:- <%= link_to_unless_current "English", locale: "en" %> |
+    <%= link_to_unless_current "Telugu", locale: "te" %>
     <%= yield %>
   </body>
 </html>
