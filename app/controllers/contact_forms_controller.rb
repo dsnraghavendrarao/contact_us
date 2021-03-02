@@ -1,8 +1,6 @@
 class ContactFormsController < ApplicationController
-  before_action :set_contact_form, only: %i[ show edit update destroy ]
-
-
-  def new
+  
+ def new
     @contact_form = ContactForm.new
   end
 
@@ -19,20 +17,7 @@ class ContactFormsController < ApplicationController
     end
   end
 
-  # DELETE /contact_forms/1 or /contact_forms/1.json
-  def destroy
-    @contact_form.destroy
-    respond_to do |format|
-      format.html { redirect_to contact_forms_url, notice: "Contact form was successfully destroyed." }
-      format.json { head :no_content }
-    end
-  end
-
   private
-    # Use callbacks to share common setup or constraints between actions.
-    def set_contact_form
-      @contact_form = ContactForm.find(params[:id])
-    end
 
     # Only allow a list of trusted parameters through.
     def contact_form_params
