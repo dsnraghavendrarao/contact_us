@@ -1,0 +1,183 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/raghavendra/raghu/ror/Contact/app/controllers/contact_forms_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          3,
+          3,
+          3,
+          6,
+          3,
+          null,
+          0,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null,
+          null,
+          1,
+          3,
+          null,
+          null
+        ]
+      },
+      "/home/raghavendra/raghu/ror/Contact/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          1,
+          null,
+          4,
+          4,
+          null,
+          null,
+          1,
+          3,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/raghavendra/raghu/ror/Contact/spec/controllers/error_pages_controller_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/home/raghavendra/raghu/ror/Contact/app/controllers/error_pages_controller.rb": {
+        "lines": [
+          1,
+          1,
+          0,
+          null,
+          null
+        ]
+      },
+      "/home/raghavendra/raghu/ror/Contact/spec/mailers/contact_mailer_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          3,
+          3,
+          null,
+          1,
+          1,
+          0,
+          0,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/raghavendra/raghu/ror/Contact/app/mailers/contact_mailer.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          5,
+          5,
+          null,
+          null
+        ]
+      },
+      "/home/raghavendra/raghu/ror/Contact/app/mailers/application_mailer.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/raghavendra/raghu/ror/Contact/spec/models/contact_form_spec.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null,
+          1,
+          3,
+          1,
+          1,
+          2,
+          null,
+          null,
+          null,
+          1,
+          2,
+          2,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/raghavendra/raghu/ror/Contact/spec/routings/routes_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1614629637
+  }
+}

@@ -1,0 +1,17 @@
+te:
+  new:
+    form_title: "మాకు సందేశం పంపండి"
+    display_name_label: "మీ పేరు మాకు చెప్పండి"
+    first_name: "మొదటి పేరు" 
+    last_name: "చివరి పేరు"
+    email_label: "మీ ఇమెయిల్‌ను నమోదు చేయండి"
+    example: "ఉదాహరణ"
+    phone_number_label: "ఫోన్ నంబర్‌ను నమోదు చేయండి"
+    message_label: "సందేశం"
+    message_placeholders: "మాకు సందేశం రాయండి"
+    send_message_button: "సందేశము పంపుము"
+    first_name_validation: "మొదటి పేరును టైప్ చేయండి"
+    last_name_validation: "చివరి పేరును టైప్ చేయండి"
+    email_validation: "చెల్లుబాటు అయ్యే ఇమెయిల్ అవసరం: ex@abc.xyz"
+    message_validation: "సందేశం అవసరం" 
+    language: "తెలుగు"
